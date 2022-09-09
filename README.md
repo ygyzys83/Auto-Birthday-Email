@@ -5,7 +5,7 @@ Automatically send a happy birthday email to family and friends.
 ## Description
 
 This automatic email sending program built with PyCharm uses a service like https://www.pythonanywhere.com/ which allows automatic execution of a program with a chosen cadence (e.g. daily).
-The program references a `birthdays.csv` file and if a birthday matches the current date, an email will automatically be sent to the individual with contents of one of the letters in `letter_templates`
+The program references a `birthdays.csv` file and if a birthday matches the current date, an email will automatically be sent to the individual with contents of one of the letters in `letter_templates` folder.
 
 ## Getting Started
 
