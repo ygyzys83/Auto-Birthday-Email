@@ -19,7 +19,7 @@ The program references a `birthdays.csv` file and if a birthday matches the curr
     PORT = 587
     EMAIL_SMTP = "smtp.gmail.com"
   ```
-* Edit `birthdays.csv` with the name, email, year(2022), month(3), and day(31) of each individual's birthday.
+* Edit `birthdays.csv` with the name, email, year(2022), month(3), and day(31) of each individual's birthday whom you would like an automatic email sent to.
 
 ### Executing the program
 
